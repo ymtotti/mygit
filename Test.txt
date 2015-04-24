@@ -5,3 +5,4 @@ Git is free software.
 Git has a mutable index called stage.
 Fine!
 ready to push github
+my first distributed code repository
